@@ -2,6 +2,7 @@ import React from "react";
 
 function Login(props) {
   const handleClick = () => {
+    //sdfsdf
     props.gotoRegister();
   };
   return (
