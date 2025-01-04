@@ -5,7 +5,6 @@ function App() {
   const [isLogin, setIsLogin] = React.useState(true);
 
   const gotoLogin =()=>{
-    //hgkjg
     setIsLogin(true)
   }
   const gotoRegister =()=>{
